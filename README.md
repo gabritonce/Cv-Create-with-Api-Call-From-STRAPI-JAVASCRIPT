@@ -1,0 +1,1 @@
+# Cv-Create-with-Api-Call-From-STRAPI-JAVASCRIPT
